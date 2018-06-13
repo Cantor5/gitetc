@@ -4,7 +4,7 @@ Bitbucket
 Links to markdown files in nested directories
 ---------------------------------------------
 
-I found that it also simple to create the structure as you go along by doing the following:
+I found that, it also simple to create the structure as you go along by doing the following:
 
 1. add something like `a list of [[Wiki/Notes.md|notes]]`
 2. add `== Table of contents ==`
